@@ -15,7 +15,7 @@ exports.run = async (client, message, args) => {
         \`.+rep <@user> <reason>\` - add **positive** reputation to the user. \n
         \`.-rep <@user> <reason>\` - add **negative** reputation to the user. \n
         \`.pomoc\` - shows help.\n \n
-        Pozostałe:
+        Other:
         \`.mod\` - admin commands.`)
 
     message.channel.send(embed)
