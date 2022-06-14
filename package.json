@@ -1,0 +1,27 @@
+{
+  "name": "rep",
+  "version": "1.0.0",
+  "description": "???",
+  "main": "repbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prospero",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "common-tags": "^1.8.0",
+    "discord-anti-spam": "^2.3.4",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "enmap": "^5.2.4",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^2.0.2",
+    "random-puppy": "^1.1.0",
+    "strict-uri-encode": "^2.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
