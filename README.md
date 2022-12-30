@@ -1,1 +1,1 @@
-# rsbot
+# Reputation System Discord Bot
